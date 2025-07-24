@@ -6,7 +6,8 @@ This project provides a comprehensive analysis of online payment transactions th
 ## Dashboard Preview
 Below is a screenshot of the dashboard visualizing the transaction data:
 
-![Dashboard Screenshot](./images/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot1.png)
+![Dashboard Screenshot](dashboard_screenshot2.png)
 
 ## Data Description
 The dataset includes records of online payment transactions with the following details:
