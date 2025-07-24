@@ -45,33 +45,14 @@ The project employs multiple chart types to visualize the transaction data, as d
    - Paired with a Card to display revenue or profit from transaction fees.
 
 ## Key Insights
-The analysis, detailed in the [report](./docs/wallet_transaction_report_project.pdf), uncovers critical findings:
+The analysis, detailed in the [report](wallet_transaction_report_project.pdf), uncovers critical findings:
 - **Transaction Value Drop**: A significant decrease in transaction value occurred in August, as shown in the Combo Chart.
 - **Payment Method Issues**: Bar Charts highlight payment methods with high failure rates, suggesting areas for improvement.
 - **Regional Performance**: The Donut Chart identifies regions with higher failure rates, warranting further investigation.
 - **Device Distribution**: The Pie Chart reveals the proportion of devices used, aiding in platform-specific optimizations.
 
-## How to Use the Project
-1. **View the Report**: Download and review the [Wallet Transaction Report PDF](./docs/wallet_transaction_report_project.pdf) for detailed insights and visualizations.
-2. **Explore the Dashboard**: Refer to the dashboard screenshot above or recreate it using the provided data and tools.
-3. **Reproduce the Analysis**:
-   - Access the dataset in the `/data` folder.
-   - Use tools like Excel, Power BI, or Tableau to recreate the charts.
-   - Refer to instructions in the `/docs` folder for setup guidance.
-4. **Explore the Code**: If available, check the `/src` folder for data processing scripts.
-
-## Repository Structure
-- `/data`: Contains the raw and processed transaction datasets.
-- `/docs`: Includes the [Wallet Transaction Report PDF](./docs/wallet_transaction_report_project.pdf) and other documentation.
-- `/images`: Contains the [dashboard screenshot](./images/dashboard_screenshot.png).
-- `/src`: Includes any scripts used for data processing (if applicable).
-- `README.md`: This file.
-
+   
 ## Dependencies
 To interact with the project, you’ll need:
 - **PDF Viewer**: To view the [report](./docs/wallet_transaction_report_project.pdf).
 - **Visualization Tools**: Excel, Power BI, or Tableau for analysis reproduction.
-- **Programming Environment** (optional): For running any included scripts.
-
-## Contact
-For questions or issues, submit an issue on the GitHub repository or contact [Your Name] at [Your Email Address].
