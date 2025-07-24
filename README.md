@@ -1,7 +1,7 @@
 # Online Payment Transaction Analysis
 
 ## Project Overview
-This project provides a comprehensive analysis of online payment transactions through data visualizations. It aims to identify trends, detect issues, and provide actionable insights into transaction behavior across regions, devices, and payment methods. Key metrics such as transaction counts, revenue, device types, and payment method success/failure rates are explored to optimize the payment system. The full report is available in the [Wallet Transaction Report PDF](./docs/wallet_transaction_report_project.pdf).
+This project provides a comprehensive analysis of online payment transactions through data visualizations. It aims to identify trends, detect issues, and provide actionable insights into transaction behavior across regions, devices, and payment methods. Key metrics such as transaction counts, revenue, device types, and payment method success/failure rates are explored to optimize the payment system. The full report is available in the [Wallet Transaction Report PDF](wallet_transaction_report_project.pdf).
 
 ## Dashboard Preview
 Below is a screenshot of the dashboard visualizing the transaction data:
