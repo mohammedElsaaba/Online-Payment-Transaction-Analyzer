@@ -21,7 +21,7 @@ The dataset includes records of online payment transactions with the following d
 The data spans a specific time period, with monthly trends analyzed to uncover patterns and anomalies.
 
 ## Visualizations
-The project employs multiple chart types to visualize the transaction data, as detailed in the [report](./docs/wallet_transaction_report_project.pdf):
+The project employs multiple chart types to visualize the transaction data, as detailed in the [report](wallet_transaction_report_project.pdf):
 
 1. **Cards**:
    - Display aggregate metrics such as total transactions, total revenue, and other key figures for a quick overview.
